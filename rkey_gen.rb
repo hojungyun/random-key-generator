@@ -92,7 +92,7 @@ __END__
 
 $ ./rkey_gen.rb -h
 Usage:
-     rkey_gen.rb [options] <mix> <max> <count>
+     rkey_gen.rb [options] <mix> <max>
 
 Examples:
      rkey_gen.rb -u -l -n -s 3 5
